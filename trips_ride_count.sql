@@ -15,7 +15,7 @@ Code finds the following:
 */
 
 
-# TOTAL NUMBER OF RIDES == 1929
+# TOTAL NUMBER OF RIDES 
 SELECT count(*) 
 FROM
 	(SELECT * FROM trips.lime_may_trips UNION ALL SELECT * FROM trips.ofo_trips 
