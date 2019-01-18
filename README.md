@@ -1,5 +1,5 @@
 # dockless-bikes
-Dockless Bikes Project for Department of Innovation and Technology (DoIT) 
+Dockless Bikes Project for Department of Innovation and Technology (DoIT). 
 Done as Mayoral Fellow for City of Chicago Office of the Mayor primarily between June - August 2018, though future updates may be added.
 
 Confidential data/information has been removed.
